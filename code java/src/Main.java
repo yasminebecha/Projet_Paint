@@ -10,7 +10,7 @@ public class Main {
          p2.setY(1);
          System.out.println("p1"+p1.toString());
         System.out.println("p2"+p2.toString());
-        // je suis un commentaire très utile
+
     }
 
 
